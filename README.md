@@ -1,0 +1,2 @@
+# LISP-Functions
+School Project (11/21/16)- This program generates 3 different functions, arithmetic, used to solve an expression, given inputs. The second is carcdr, which continuously calls car and cdr on a list until the list is empty. The last function is use-and-and-atom, which is used to analyze the contents of a list. These 3 functions are defined and then called in this file, using pre-existing data sets for each of the functions.
